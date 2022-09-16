@@ -12,8 +12,7 @@
 
 - 📫 How to reach me **jagtappunam129@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1JCUOrJLUYvrWgtRluT1Ns1Wg5zPSKsLy/edit?usp=sharing&ouid=113895873573374093110&rtpof=true&sd=true](https://docs.google.com/document/d/1JCUOrJLUYvrWgtRluT1Ns1Wg5zPSKsLy/edit?usp=sharing&ouid=113895873573374093110&rtpof=true&sd=true)
-
+- 📄 Know about my experiences [https://drive.google.com/file/d/1Eiexd5z8Ntj-KPTQ1mSzNbpLH03T9R3t/view?usp=sharing]
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/punam-jagtap-090839232/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/punam-jagtap-090839232/" height="30" width="40" /></a>
