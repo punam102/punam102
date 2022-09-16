@@ -1,18 +1,18 @@
-
-
 <h1 align="center">Hi 👋, I'm Punam</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt="coding" width="400" src="https://miro.medium.com/max/1050/1*qdAW1TjCN57h1lbuuzvchg.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=punam102&label=Profile%20views&color=0e75b6&style=flat" alt="punam102" /> </p>
 
-- 👨‍💻 All of my projects are available at [https://incandescent-cannoli-b490b1.netlify.app/](https://incandescent-cannoli-b490b1.netlify.app/)
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=punam102" alt="punam102" /></a> </p>
+
+- 👨‍💻 All of my projects are available at [https://punamjs-portfolio.netlify.app/](https://punamjs-portfolio.netlify.app/)
 
 - 💬 Ask me about **React, Javascrpit, HTML , CSS**
 
 - 📫 How to reach me **jagtappunam129@gmail.com**
 
-- 📄 Know about my experiences [[https://drive.google.com/file/d/1PcCwHRZd7YiweuUa1Ojiv0lwUYjKEgCl/view?usp=sharing](https://drive.google.com/file/d/1EQjg54VhG3_ZEX9uQ990kFrSot6aQqW2/view?usp=sharing)]
+- 📄 Know about my experiences [https://docs.google.com/document/d/1JCUOrJLUYvrWgtRluT1Ns1Wg5zPSKsLy/edit?usp=sharing&ouid=113895873573374093110&rtpof=true&sd=true](https://docs.google.com/document/d/1JCUOrJLUYvrWgtRluT1Ns1Wg5zPSKsLy/edit?usp=sharing&ouid=113895873573374093110&rtpof=true&sd=true)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/punam-jagtap-090839232/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/punam-jagtap-090839232/" height="30" width="40" /></a>
