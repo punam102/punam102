@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **jagtappunam129@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1JCUOrJLUYvrWgtRluT1Ns1Wg5zPSKsLy/edit?usp=sharing&ouid=113895873573374093110&rtpof=true&sd=true](https://docs.google.com/document/d/1JCUOrJLUYvrWgtRluT1Ns1Wg5zPSKsLy/edit?usp=sharing&ouid=113895873573374093110&rtpof=true&sd=true)
+- 📄 Know about my experiences https://drive.google.com/file/d/1EQjg54VhG3_ZEX9uQ990kFrSot6aQqW2/view?usp=share_link
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
