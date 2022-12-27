@@ -1,9 +1,8 @@
-@@ -1,8 +1,8 @@
-![ScreenRecorder-2022-08-14-757719](https://user-images.githubusercontent.com/101421882/184529967-263e5c31-fad6-48ca-bdfc-6e2d8c58d499.gif)
+<img align="right" alt="coding" width="400" src="https://miro.medium.com/max/1050/1*qdAW1TjCN57h1lbuuzvchg.gif">
 # Hi, I'm Punam! 👋
 
 
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://katherinempeterson.com/)
+<!-- [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://katherinempeterson.com/) -->
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](http://robin1.netlify.app)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://in.linkedin.com/in/robin-singh-63b34a142)
 
