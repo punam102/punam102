@@ -12,14 +12,14 @@
 I'm a web developer with a focus on the MERN stack,
  but still exploring other technologies and frameworks that catch my interest! if you're looking for a developer to add to your team, I'd love to hear from you..!!
 ## Tech Stack
-**Frontend:** React, Redux, TailwindCSS
-**Backend:** Node, Express, MongoDB
+**Frontend:** React, Redux, TailwindCSS, Javascript
+
 ## 🛠 Skills
 Javascript, HTML, CSS, Bootstrap, Chakra UI, Postman, Git...
 <br><br>
 <h2 align="center">📊 My Github Stats<h2>
 <div>
-  <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=rs230498&theme=radical" alt="robin" height="250px" width="47%" />
+  <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=rs230498&theme=radical" alt="punam" height="250px" width="47%" />
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=rs230498&show_icons=true&theme=radical" height="255px" width="47%"/>
 <div>
   </br>
