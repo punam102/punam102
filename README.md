@@ -18,7 +18,7 @@ Javascript, HTML, CSS, Bootstrap, Chakra UI, Postman, Git...
 <br><br>
 <h2 align="center">📊 My Github Stats<h2>
 <div>
-  <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=punam102theme=radical" alt="punam" height="250px" width="47%" />
+  <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=punam102theme=radical" alt="puns" height="250px" width="47%" />
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=punam102&show_icons=true&theme=radical" height="255px" width="47%"/>
 <div>
   </br>
