@@ -3,8 +3,8 @@
 
 
 <!-- [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://katherinempeterson.com/) -->
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](http://robin1.netlify.app)
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://in.linkedin.com/in/robin-singh-63b34a142)
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://incandescent-cannoli-b490b1.netlify.app/)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]((https://www.linkedin.com/in/punam-jagtap-090839232)
 
 
 ## 🚀 About Me
@@ -24,6 +24,6 @@ Javascript, HTML, CSS, Bootstrap, Chakra UI, Postman, Git...
   </br>
   
 <div>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rs230498&theme=radical&langs_count=8" alt="robin" height="260px" width="25%" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rs230498&theme=radical&langs_count=8" alt="Punam" height="260px" width="25%" />
   <img align="right" src="https://activity-graph.herokuapp.com/graph?username=rs230498&theme=gruvbox&hide_border=true&area=true" height="255px" width="70%"/>
 <div>
