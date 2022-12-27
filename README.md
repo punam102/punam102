@@ -25,5 +25,5 @@ Javascript, HTML, CSS, Bootstrap, Chakra UI, Postman, Git...
   
 <div>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=punam102&theme=radical&langs_count=8" alt="punam" height="260px" width="25%" />
-  <img align="right" src="https://activity-graph.herokuapp.com/graph?username=punam102&theme=gruvbox&hide_border=true&area=true" height="255px" width="70%"/>
+<!--   <img align="right" src="https://activity-graph.herokuapp.com/graph?username=punam102&theme=gruvbox&hide_border=true&area=true" height="255px" width="70%"/> -->
 <div>
