@@ -4,7 +4,7 @@
 
 <!-- [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://katherinempeterson.com/) -->
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://incandescent-cannoli-b490b1.netlify.app/)
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]((https://www.linkedin.com/in/punam-jagtap-090839232)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/punam-jagtap-090839232/)
 
 
 ## 🚀 About Me
@@ -18,12 +18,12 @@ Javascript, HTML, CSS, Bootstrap, Chakra UI, Postman, Git...
 <br><br>
 <h2 align="center">📊 My Github Stats<h2>
 <div>
-  <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=rs230498&theme=radical" alt="punam" height="250px" width="47%" />
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=rs230498&show_icons=true&theme=radical" height="255px" width="47%"/>
+  <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=punam102theme=radical" alt="punam" height="250px" width="47%" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=punam102&show_icons=true&theme=radical" height="255px" width="47%"/>
 <div>
   </br>
   
 <div>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rs230498&theme=radical&langs_count=8" alt="Punam" height="260px" width="25%" />
-  <img align="right" src="https://activity-graph.herokuapp.com/graph?username=rs230498&theme=gruvbox&hide_border=true&area=true" height="255px" width="70%"/>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=punam102&theme=radical&langs_count=8" alt="punam" height="260px" width="25%" />
+  <img align="right" src="https://activity-graph.herokuapp.com/graph?username=punam102&theme=gruvbox&hide_border=true&area=true" height="255px" width="70%"/>
 <div>
